@@ -13,7 +13,7 @@ Directory/
     |   +-- libssh2.dll
     |   +-- zlib1.dll
     |   +-- vcruntime140.dll
-	+-- x64/
+    +-- x64/
         +-- libssh2.dll
         +-- zlib1.dll
         +-- vcruntime140.dll
